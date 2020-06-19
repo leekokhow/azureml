@@ -3,6 +3,8 @@ My interest is to explore how to operationalize machine learning with Azure Mach
 
 To get started, try predict-employee-retention-part1-training.ipynb.
 
+The "Quickstart Guide for Using Azure Machine Learning.pdf" provide steps to create Azure account and Azure Machine Learning Workspace.
+
 The example is further extended to demonstrate MLOps, which you can find [here](https://github.com/leekokhow/MLOpsPy).
 
 Happy learning! 
