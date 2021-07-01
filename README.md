@@ -7,4 +7,10 @@ The "Quickstart Guide for Using Azure Machine Learning.pdf" provide steps to cre
 
 The example is further extended to demonstrate MLOps, which you can find [here](https://github.com/leekokhow/MLOpsPy).
 
+July 1, 2021: 
+Added tutorial 4 on Automated ML using the Azure ML SDK for Python.
+
+If you are interested in exploring Azure Search to incorporate a "ranking" model, do check out Evelyn's tutorial at [evelyntan-xp /
+azure-search-and-ml](https://github.com/evelyntan-xp/azure-search-and-ml).
+
 Happy learning! 
