@@ -12,3 +12,7 @@ If you are interested in exploring Azure Search to incorporate a "ranking" model
 azure-search-and-ml](https://github.com/evelyntan-xp/azure-search-and-ml).
 
 Happy learning! 
+
+September 20, 2021:
+
+A good summary of [AutoML in Azure Machine Learning](https://www.sqlshack.com/automl-in-azure-machine-learning/) by Dinesh Asanka.
